@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Eki Zulfar Rachman
+                Lehan Rathnayaka
               </span>
             </h2>
             
@@ -214,14 +214,11 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              seorang siswa Teknik Jaringan Komputer dan Telekomunikasi yang
-              tertarik dalam pengembangan Front-End. Saya berfokus pada
-              menciptakan pengalaman digital yang menarik dan selalu berusaha
-              memberikan solusi terbaik dalam setiap proyek.
+             Hello! I'm Leehan Ranaviraj Bandara Rathnayake, a final-year Computer Science student with a passion for coding, problem-solving, and creating innovative solutions. My expertise lies in web development, machine learning, and backend systems. I enjoy building projects that solve real-world problems and continuously strive to expand my skills.
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
-              <a href="https://drive.google.com/drive/folders/1BOm51Grsabb3zj6Xk27K-iRwI1zITcpo" className="w-full lg:w-auto">
+              <a href="https://drive.google.comhttps://drive.google.com/file/d/1xcE6vCx6VPK1uSxSOyiujBzHts8dxS08/view?usp=drive_link/drive/folders/1BOm51Grsabb3zj6Xk27K-iRwI1zITcpo" className="w-full lg:w-auto">
               <button 
                 data-aos="fade-up"
                 data-aos-duration="800"
